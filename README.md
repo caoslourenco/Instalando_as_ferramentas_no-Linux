@@ -1,5 +1,11 @@
-# Instalando_as_ferramentas_no-Linux
+# Instalando_as_ferramentas_no-Linux   |||| em construção 
 Projeto
+Como inicializar um cluster no Windows
+Como inicializar um cluster no Linux
+Como fazer a instalação manual do kubectl
+Como inicializar no Google Cloud Platform
+
+---------------------
 
 Os comandos necessários para a instalação e inicialização do cluster no Linux podem ser obtidos abaixo:
 
@@ -13,4 +19,14 @@ Agora para o minikube:
 
 curl -Lo minikube https://storage.googleapis.com/minikube/releases/v1.12.1/minikube-linux-amd64 \ && chmod +x minikube
 sudo install minikube /usr/local/bin/
+
+------------
+
+Vocês já ouviram falar sobre o Google Cloud?
+Documentação oficial da Google:
+
+Programa Gratuito do Google
+
+https://cloud.google.com/free/docs/free-cloud-features?hl=pt-br#kubernetes-engine
+
 
